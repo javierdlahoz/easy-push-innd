@@ -3,6 +3,7 @@
 		"insites": "insites.sh",
 		"ispg": "isgp.sh",
 		"marshallmoya": "marshallmoya.sh",
-		"sfa": "sfa.sh" 
+		"sfa": "sfa.sh",
+		"easy-push": "easy-push.sh" 
 	}
 }
