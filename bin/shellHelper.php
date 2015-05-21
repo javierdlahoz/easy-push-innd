@@ -1,8 +1,6 @@
 <?php
 $file = $_POST["file"];
 if($_POST["file"] == "easy-push.sh"){
-    var_dump("sh ".__DIR__."/../shell/".$file);
-    die();
     $info = exec("sh ".__DIR__."/../shell/".$file);
 }
 else{
