@@ -1,0 +1,8 @@
+{
+	"projects": {
+		"insites": "insites.sh",
+		"ispg": "isgp.sh",
+		"marshallmoya": "marshallmoya.sh",
+		"sfa": "sfa.sh" 
+	}
+}
