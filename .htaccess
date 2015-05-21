@@ -1,4 +1,3 @@
-redirect 302 /data/projects.json /index.php
 redirect 302 /shell /index.php
 
 <IfModule mod_rewrite.c>
