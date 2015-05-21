@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ../
+cd /var/www/public_html
 git pull origin master
